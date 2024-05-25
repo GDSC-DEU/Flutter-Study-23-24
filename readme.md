@@ -5,9 +5,9 @@
 
 ## 참여자
 
-- 김남주
-- 김민석
-- 정채빈
+|       [김남주(스터디장)](www.github.com/cmsong111)        |          [김민석](https://github.com/minseok419)           |          [정채빈](https://github.com/beantultulyee)           |
+| :-------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------------------------: |
+| ![image](https://avatars.githubusercontent.com/cmsong111) | ![image](https://avatars.githubusercontent.com/minseok419) | ![image](https://avatars.githubusercontent.com/beantultulyee) |
 
 ## 스터디 정리
 
