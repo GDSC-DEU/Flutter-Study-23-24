@@ -7,3 +7,6 @@
 [submodule "김민석"]
 	path = 4주차_과제/김민석
 	url = https://github.com/minseok419/flutter-korean-json-.git
+[submodule "이도원"]
+	path = 이도원
+	url = https://github.com/D0won/Flutter-CA-
